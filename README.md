@@ -18,7 +18,9 @@ Atualmente atuo com suporte técnico e gestão de incidentes, com experiência e
 - Integrações e análise funcional
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas - Unisinos
+
 🎓 Formação técnica em Informática pelo IFRS
+
 📍 Porto Alegre - RS
 
 🚀 Me adiciona no [LinkedIn](www.linkedin.com/in/gabriela-augustin-2b7558232)
