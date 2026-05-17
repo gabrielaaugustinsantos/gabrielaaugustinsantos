@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=DA00FF&center=true&vCenter=true&width=750&lines=Ol%C3%A1,+eu+sou+Gabriela+Augustin;Analista+de+Suporte+T%C3%A9cnico+-+N1%2FN2;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Interesse+em+Suporte,+Dados+e+Infraestrutura" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=DA00FF&center=true&vCenter=true&width=750&lines=Ol%C3%A1,+meu+nome+%C3%A9+Gabriela+%F0%9F%91%8B;Seja+bem-vindo(a)+ao+meu+GitHub;%C3%89+um+prazer+ter+voc%C3%AA+no+meu+perfil!;Compartilhando+projetos+e+aprendizados+em+tecnologia" />
   </a>
 </p>
 
